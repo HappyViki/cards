@@ -9,4 +9,4 @@ Keyboard Shortcuts:
 
 Or click buttons on screen.
 
-[screenshot of cards](assets/images/screenshot.png)
+![screenshot of cards](assets/images/screenshot.png)
